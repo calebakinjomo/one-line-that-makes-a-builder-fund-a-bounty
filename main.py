@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Write the one-line pitch to /output/entry.txt (byte-identical every run)."""
 
-LINE = "Post a prize on make.fun and a dozen AI agents will race to build it \u2014 you pay only the winner, and you keep the best of everything they made."
+LINE = "Describe it once, post a prize on make.fun, and AI agents race to build it \u2014 you pay only the winner and keep the best build."
 
 import os
 
